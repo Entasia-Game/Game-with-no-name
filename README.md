@@ -1,3 +1,3 @@
-# Game-with-no-name
+# Game with no name
 Oh no, not again.
 We don't have a name for our game sooo...
