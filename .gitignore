@@ -44,18 +44,9 @@ ExportedObj/
 *.VC.db
 *.blend
 *.blend1
-*.mp3
-*.wav
-*.png
-*.jpg
-*.mat
 *.fbx
 *.prefab
-*.terrainlayer
-*.brush
-*.physicMaterial
 *.obj
-*.jpeg
 
 # Unity3D generated meta files
 *.meta
@@ -64,8 +55,6 @@ ExportedObj/
 *.mdb.meta
 *.blend.meta
 *.blend1.meta
-*.mp3.meta
-*.wav.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
